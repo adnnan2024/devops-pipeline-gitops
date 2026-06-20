@@ -1,0 +1,5 @@
+App successfully deployed!
+
+Get the application URL by running:
+  kubectl port-forward svc/myapp 8080:80 -n myapp
+  curl http://localhost:8080
